@@ -25,7 +25,7 @@ dropout = 0.1
 # Scenario parameters
 N = 4 #Number of radars
 T = 1 #Number of targets
-temporal_flag = 0 #1 to use one-step prediction with random targets, 0 to use continuous wind model for motion tracking
+temporal_flag = 0 #0 to use one-step prediction with random targets, 1 to use continuous wind model for motion tracking
 
 # One-Step prediction parameters (FF only - set model_flag = 0)
 target_scaling = 5 #Ratio of maximum target location to maximum radar array location (1)
