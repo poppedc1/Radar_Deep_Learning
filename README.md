@@ -1,5 +1,9 @@
-# Radar_Deep_Learning
-Deep Learning Project Submission
+# Radar: Deep Learning and Sparse Recovery
+
+Sparse Recovery Project Submission:
+Simply run the sparse_recovery_radar_positions_runscript.m. The simulation parameters are at the top, and the input_select.m function allows you to pick a pulse type for reconstruction. Single and multi-target scenarios can be run or commented out at the top of the run script.
+
+Deep Learning Project Submission:
 
 There are five files: test_bench.py, generate_data.py, plot_tools.py, radar_learning_models.py, and run_training_and_testing.py. 
 
